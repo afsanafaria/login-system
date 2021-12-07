@@ -1,0 +1,13 @@
+.pass{
+    border:2px solid black!important;
+    border-radius: 0px!important;
+}
+
+.pass-new{
+    border:2px solid red!important;
+    border-radius: 0px!important;
+}
+.text{
+    color: red;
+    font-weight: 600;
+}
